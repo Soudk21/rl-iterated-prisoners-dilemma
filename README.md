@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Conference](https://img.shields.io/badge/Published-ICERAI-blue)](https://github.com/Soudk21/rl-iterated-prisoners-dilemma)
+[![Conference](https://img.shields.io/badge/Published-ICERAI-blue)](https://aurak.ac.ae/icerai-2026)
 [![Topic](https://img.shields.io/badge/Topic-Reinforcement%20Learning-green)](https://github.com/Soudk21/rl-iterated-prisoners-dilemma)
 
 ## 📄 Abstract
